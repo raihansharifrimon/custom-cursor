@@ -82,6 +82,17 @@ a:hover {
     text-transform: capitalize;
 }
 
+.load-more {
+    font-size: 40px;
+    color: #fff;
+    opacity: .8;
+    font-weight: 400;
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .cursor {
     width: 3rem;
     height: 3rem;
